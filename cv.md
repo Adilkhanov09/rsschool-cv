@@ -1,2 +1,0 @@
-#Adilkhanov Nurbek
-
