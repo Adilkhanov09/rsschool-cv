@@ -30,3 +30,8 @@ function bubbleSort(arr) {
   return arr;
 };
 ```
+# Education:
+
+* 2013-2017 Bachelor degree of Mechanical engineering
+* 2017-2019 Masters degree of Mechanical engineering
+* 2021 course Java SE
