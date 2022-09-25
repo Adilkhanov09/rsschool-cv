@@ -2,7 +2,7 @@
 
 ## **Contact information:**
 
-**Phone:** 87781121525
+**Phone:** 87781121525    
 **e-mail** n.adilhanov09@gmail.com
 
 ## About me:
@@ -30,7 +30,13 @@ function bubbleSort(arr) {
   return arr;
 };
 ```
+
 ## Education:
 * 2013-2017 Bachelor degree of Mechanical engineering
 * 2017-2019 Masters degree of Mechanical engineering
 * 2021 course Java SE
+
+## Languages:
+* Kazakh
+* Russian
+* English - A2
