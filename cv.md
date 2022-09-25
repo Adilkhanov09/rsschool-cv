@@ -35,3 +35,9 @@ function bubbleSort(arr) {
 * 2013-2017 Bachelor degree of Mechanical engineering
 * 2017-2019 Masters degree of Mechanical engineering
 * 2021 course Java SE
+
+# Languages:
+
+* Kazakh
+* Russian
+* English - A2
