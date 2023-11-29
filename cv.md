@@ -28,7 +28,16 @@ function square(a) {
 ```
 -------------------
 ## Education
-2021 - ***Java SE***
-2022-2023 - ***Python developer***
-2023-... - ***Frontend developer***
+
+* 2021 - ***Java SE***
+
+* 2022-2023 - ***Python developer***
+
+* 2023-... - ***Frontend developer***
+
 -------------------
+## Languages
+
+* Kazakh - native
+* Russian - fluent
+* English - A2  
